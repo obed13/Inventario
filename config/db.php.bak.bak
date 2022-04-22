@@ -1,0 +1,11 @@
+<?php
+/*Datos de conexion a la base de datos*/
+define('DB_HOST', 'localhost');
+define('DB_USER', 'cruphi');
+define('DB_PASS', 'nacholibre12345');
+define('DB_NAME', 'invenSorteosUabc');
+ 
+/*Datos del usuario administrador del sistema*/
+define('USERNAME', 'admin');
+define('PASSWORD', 'paty');
+?>
